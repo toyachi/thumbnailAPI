@@ -1,0 +1,19 @@
+{
+  "name": "thumbnailAPI",
+  "version": "0.0.1",
+  "description": "web page thumbnailAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toyachi/thumbnailAPI.git"
+  },
+  "author": "toyachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toyachi/thumbnailAPI/issues"
+  },
+  "homepage": "https://github.com/toyachi/thumbnailAPI#readme"
+}
